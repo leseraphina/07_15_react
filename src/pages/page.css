@@ -1,0 +1,21 @@
+#home{background-color:green;}
+#sample01{background-color:#c78f0c;}
+#sample02{background-color:#4314a2;}
+#sample03{background-color:#0969ae}
+
+article{
+    height:60vh;
+    padding:25px 0;
+    box-sizing:border-box;
+    text-align:center;
+}
+article>h1{
+    color:#fff;
+    font-size:60px;
+    margin-bottom:50px;
+}
+article>p{
+    color:#fff;
+    font-size:35px;
+    margin-bottom:50px;
+}
